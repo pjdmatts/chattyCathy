@@ -1,5 +1,7 @@
 .github/**
 build
+build/
+build/*
 
 # Prerequisites
 *.d
