@@ -16,10 +16,9 @@ private:
     // proprietary members
     int _id;
     std::vector<std::string> _keywords; // list of topics associated with this edge
-    
 
 public:
-    // constructor / desctructor
+    // constructor / destructor
     GraphEdge(int id);
 
     // getter / setter
